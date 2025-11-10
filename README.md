@@ -34,3 +34,16 @@ Mitigate Single Market Dependency Risk: The company must allocate marketing and 
 Conduct an in-depth Average Selling Price (ASP) analysis comparing products sold in the UK versus secondary markets. If the ASP is higher in secondary markets, these countries should be designated as primary targets for launching premium or high-margin products.
 
 Optimize Inventory by Geography: Identify the Top 10 Bestsellers in the UK separately from the Top 10 Bestsellers in international markets. This information must be used to optimize the supply chain and reduce regional holding costs by ensuring stock matches local demand.
+
+## Dashboard
+- <a href="https://github.com/Herutomow-Wiryawan/Data-Analysis/blob/main/Screenshot%202025-11-10%20192730.png">View Dashboard</a>
+
+## Process
+Verify data for any missing values.
+
+Make Sure data clean with repect to data type, data format, value used.
+
+Created Pivot table to find any insight
+
+Merge all Pivot table into Dashboard data visualization.
+
