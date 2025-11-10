@@ -35,9 +35,6 @@ Conduct an in-depth Average Selling Price (ASP) analysis comparing products sold
 
 Optimize Inventory by Geography: Identify the Top 10 Bestsellers in the UK separately from the Top 10 Bestsellers in international markets. This information must be used to optimize the supply chain and reduce regional holding costs by ensuring stock matches local demand.
 
-## Dashboard
-- <a href="https://github.com/Herutomow-Wiryawan/Data-Analysis/blob/main/Screenshot%202025-11-10%20192730.png">View Dashboard</a>
-
 ## Process
 Verify data for any missing values.
 
@@ -46,4 +43,10 @@ Make Sure data clean with repect to data type, data format, value used.
 Created Pivot table to find any insight
 
 Merge all Pivot table into Dashboard data visualization.
+
+## Dashboard
+- <a href="https://github.com/Herutomow-Wiryawan/Data-Analysis/blob/main/Screenshot%202025-11-10%20192730.png">View Dashboard</a>
+
+<img width="1392" height="612" alt="Screenshot 2025-11-10 192730" src="https://github.com/user-attachments/assets/72b8b096-3d13-4278-a936-99f6e411212e" />
+
 
