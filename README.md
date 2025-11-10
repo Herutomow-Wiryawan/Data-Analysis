@@ -38,7 +38,7 @@ Optimize Inventory by Geography: Identify the Top 10 Bestsellers in the UK separ
 ## Process
 Verify data for any missing values.
 
-Make Sure data clean with repect to data type, data format, value used.
+Make Sure data clean with respect to data type, data format, value used.
 
 Created Pivot table to find any insight
 
